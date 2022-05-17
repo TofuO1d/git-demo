@@ -25,3 +25,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 git测试：222222hot-fix
 rest
+git测试：222222hot-fix rest
+
